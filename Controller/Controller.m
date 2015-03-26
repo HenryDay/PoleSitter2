@@ -1,6 +1,6 @@
 %Top level class
 %Decided that at t=0 the planet is at its aphelion. 
-
+%Change made on Henrys github
 %Pick a planet
 planetNo = 3;
 %Set the constants
